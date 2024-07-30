@@ -1,0 +1,8 @@
+my_sting = input('как дела?: ')
+print(my_sting)
+print(int(1))
+print(my_sting.upper())
+print(my_sting.lower())
+print('отлично, стараюсь стать хорошим учеником'.replace(' ', ''))
+print('отлично, стараюсь стать хоршим учеником'.replace('отлично', 'хорошо'))
+print('отлично, стараюсь стать хорошим учеником'.replace('учеником', 'программистом'))
